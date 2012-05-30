@@ -1,0 +1,10 @@
+C:\XFER\DEV\VS.net\qdhb\qdhb\bin\qdhb.dll
+C:\XFER\DEV\VS.net\qdhb\qdhb\bin\qdhb.pdb
+C:\XFER\DEV\VS.net\qdhb\qdhb\obj\Debug\ResolveAssemblyReference.cache
+C:\XFER\DEV\VS.net\qdhb\qdhb\obj\Debug\qdhb.dll
+C:\XFER\DEV\VS.net\qdhb\qdhb\obj\Debug\qdhb.pdb
+C:\XFER\DEV\git\qdhb\bin\qdhb.dll
+C:\XFER\DEV\git\qdhb\bin\qdhb.pdb
+C:\XFER\DEV\git\qdhb\obj\Debug\ResolveAssemblyReference.cache
+C:\XFER\DEV\git\qdhb\obj\Debug\qdhb.dll
+C:\XFER\DEV\git\qdhb\obj\Debug\qdhb.pdb
